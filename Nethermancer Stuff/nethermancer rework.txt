@@ -1,0 +1,65 @@
+Void Barrage	Miasma		Fusion of Flesh
+Mind Blast	Carrion Call	Flaying Tendril
+Void Helix	Animus Blast	Grappling Tendril
+
+Tesseract	Expunge		Devouring Tendril
+Nether Phase	Plague Pustule	???
+Implosion	???		Thrashing Tendril
+
+Chronosphere	Unclean One	Nethermorphosis
+
+
+Chilblains	Nethertoxin	Black Ichor
+Lucidity	Festering Aura	Insanity
+Warp Shell	Epidemic	Flagellation
+
+
+Charge gives melee damage
+Fusion gives cleaving damage
+Flagellation gives attack speed on hit (divided up over 20..6 stacks)
+
+Void Barrage GOOD
+Eldritch Nova GOOD
+Void Helix freeze chance converted to 100% chance for a scaling duration and limited to fully-charged shots; max charge time fixed at 4
+	seconds, instead scaling by max size; maybe remove intermediate charge levels for min/max only and reduce the damage of uncharged
+	shots
+Tesseract GOOD
+Nether Phase GOOD
+Implosion GOOD
+Chronosphere GOOD
+
+Miasma applies Nethertoxin
+Carrion Call GOOD
+Expunge GOOD
+Animus Blast GOOD
+Plague Pustule reworked into land mine at all ranks, and if possible allow it to be a valid target for Carrion Call
+???
+Unclean One GOOD
+
+Fusion of Flesh GOOD
+Flaying Tendril (mid-range cone that shreds armor/shields [Nethermorphosis: hits twice in two slightly overlapping arcs])
+Grappling Tendril (pull self to target, knock back and slow enemies on the way [Nethermorphosis: adds stun and enlarges hitbox])
+Devouring Tendril (damage and pull a single target, conveys life/mana steal [Blessing: hits 3..6 additional targets])
+Thrashing Tendril (summon a wall of lashing, immobilizing tentacles [Blessing: summons tentacles in a ring around you])
+???
+Nethermorphosis (drains charge over time, sprouts counterattacking tentacles from your back, and alters Tendril skills)
+
+
+DCU	
+CUD
+DUC
+
+CDD
+UDC
+CUD
+
+CUU
+
+
+Warp Shell: Blocks all damage from a single attack against you. Has a 10..3 second cooldown.
+
+Regent's Blessing: The nether powers consume you entirely, transforming you into a hulking eldritch abomination. While in this form, you reflect damage to attacking foes and your Tendril skills are replaced with slower, more powerful versions. Requires full charge to cast, and gradually drains charge while active.
+	Flaying Tendril - Strikes a second time in a wide arc.
+	Grappling Tendril - Pulls target to you instead.
+	Devouring Tendril - Grabs additional targets around you.
+	Whipping Tendril - Rearranged into a ring around you.

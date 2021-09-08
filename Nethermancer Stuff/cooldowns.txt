@@ -1,0 +1,18 @@
+60	Unclean One
+45	Chronosphere (Rank 1)
+33	Nethermorphosis Duration (Rank 15)
+32	Chronosphere (Rank 14)
+30	Nethermorphosis
+20	Warp Shell (Rank 1)
+18	Fusion of Flesh (Rank 1)
+12	Implosion (Rank 1)
+10	Wall of Flesh, Nethermorphosis Duration (Rank 1)
+9	Tesseract
+8	Chronosphere (Rank 15)
+7	Mind Blast
+6	Warp Shell (Rank 15)
+5	Void Helix (Rank 1), Implosion (Rank 15)
+4	Fusion of Flesh (Rank 15)
+3	Nether Phase, Void Helix (Rank 15)
+2	Legion's Grasp
+1	Carrion Call, Expunge, Nether Assault

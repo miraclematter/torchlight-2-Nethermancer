@@ -1,0 +1,100 @@
+---ON-HIT MAGE---
+15 Void Barrage
+15 Tesseract
+15 Nether Phase
+15 Unclean One
+
+15 Chilblains
+15 Lucidity
+15 Warp Shell
+15 Nethertoxin
+
+10 Wall of Flesh
+1 Implosion
+1 Black Ichor
+
+
+
+---FREEZER---
+15 Void Helix
+15 Implosion
+15 Eldritch Nova
+15 Nether Phase
+
+15 Chilblains
+15 Lucidity
+15 Warp Shell
+15 Festering Aura
+
+5 Miasma
+5 Epidemic
+1 Black Ichor
+1 Chronosphere
+
+
+
+---SUMMONER---
+15 Carrion Call
+15 Animus Blast
+15 Unclean One
+15 Implosion
+5 Nether Phase / 10 Chronosphere
+
+15 Chilblains
+15 Warp Shell
+15 Black Ichor
+
+10 Festering Aura
+1 Fusion of Flesh
+1 Lucidity
+
+
+
+---EXPUNGER---
+15 Miasma
+15 Expunge
+15 Tesseract
+10 Nether Phase / 5 Implosion
+
+15 Chilblains
+15 Nethertoxin
+15 Epidemic
+15 Black Ichor
+
+10 Festering Aura
+1 Fusion of Flesh
+1 Chronosphere
+
+
+
+---GROPER---
+15 Tentacle Lash
+15 Legion's Grasp
+15 Jagged Bones
+15 Nether Assault
+
+15 Nethertoxin
+15 Black Ichor
+15 Insanity
+15 Flay
+
+10 Fusion of Flesh
+1 Rot
+1 Festering Aura
+
+
+
+---FLAYER---
+15 Tentacle Lash
+15 Fusion of Flesh
+15 Transfusion
+15 Rot
+
+15 Nethertoxin
+15 Black Ichor
+15 Insanity
+15 Flay
+
+10 Jagged Bones
+1 Nether Assault
+1 Festering Aura

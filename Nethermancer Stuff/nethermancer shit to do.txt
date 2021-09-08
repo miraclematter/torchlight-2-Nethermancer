@@ -1,0 +1,67 @@
+
+Void Barrage
+Eldritch Nova (generates 2..5% mana for the first 5 foes hit, dumps charge even if below threshold)
+Void Helix (change so that only full-charged shots freeze)
+Implosion (50% slow by default, reduce radius to 9 meters until tier 1)
+Nether Phase
+Tesseract (needs some kind of boost to make up for moving so far up the tree)
+Chronosphere
+
+Chilblains
+Lucidity
+Warp Shell
+
+
+
+Miasma (needs to inflict Darkness/Nethertoxin blind)
+Carrion Call (allow casting on Plague Pustules)
+Animus Blast
+Expunge (not finished)
+Plague Pustule (allow Carrion Call to be cast on pustules)
+Rot (poisonous aura deals damage and slows enemies' movement/attacks/casts)
+Unclean One
+
+Nethertoxin
+Festering Aura
+Epidemic
+
+
+
+Fusion of Flesh
+Tentacle Lash (mid-range cone attack, strips away armor and has an increased chance to break shields)
+Nether Assault (root target and pull self to them, enemies along your path are knocked back and Panicked)
+Jagged Bones (toggle to increase armor and deal damage to melee attackers, drains mana over time)
+Transfusion (disable, pull, and drain health from a target; if they die you gain stats based on their max HP)
+Wall of Flesh (change to ring, tentacles block allies, cast again to kill tentacles)
+Legion's Grasp
+
+Black Ichor
+Insanity (charge attack speed replaced with melee damage?)
+Thrashing Tendrils (up to 6..90% attack speed based on missing health)
+
+
+Eldritch
+Void Barrage	Eldritch Nova	Void Helix	Implosion	Tesseract	Nether Phase	Chronosphere
+
+Plague
+Miasma		Carrion Call	Animus Blast	[Expunge]	[Rot]		Plague Pustule	Unclean One
+
+Flesh
+Fusion of Flesh	Tentacle Lash	Nether Assault	Jagged Bones	Transfusion	Wall of Flesh	Legion's Grasp
+
+
+Damage		Control		Damage		Control		Control		Utility		Control
+
+Control		Utility		Utility		Damage		Control		Damage		Utility
+
+Utility		Damage		Utility		Utility		Damage		Control		Damage
+
+
+Primary
+Void Barrage	Miasma		Tentacle Lash	Void Helix	Animus Blast	Transfusion	Plague Pustule
+
+Secondary
+Eldritch Nova	Nether Assault	Implosion	Jagged Bones	Tesseract	Rot		Nether Phase
+
+Situational
+Fusion of Flesh	Carrion Call	Expunge		Wall of Flesh	Chronosphere	Unclean One	Legion's Grasp

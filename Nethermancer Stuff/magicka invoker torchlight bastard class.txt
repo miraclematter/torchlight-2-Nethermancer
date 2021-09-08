@@ -1,0 +1,56 @@
+Geomancer
+
+
+Earth (stone)
+Fire (magma)
+Life (crystals)
+
+Point Cast
+Nova Cast
+Self Cast
+
+
+===================
+
+Earth Point = Boulder
+Fire Point = Flamethrower
+Crystal Point = Healing Beam
+
+Earth-Fire Point = Firebomb
+Fire-Earth Point = Lava Shotgun
+Fire-Crystal Point = Inferno Beam
+Crystal-Fire Point = Magma Mines
+Crystal-Earth Point = Healing Mines
+Earth-Crystal Point = Stone Wall
+
+Earth-Fire-Crystal Point = Wall of Fire
+
+===================
+
+Earth Nova = Earthquake
+Fire Nova = Fire Nova
+Crystal Nova = Healing Nova
+
+Earth-Fire Nova = Ring of Fire
+Fire-Earth Nova = Lava Flow
+Fire-Crystal Nova = Ward Against Harm
+Crystal-Fire Nova = Magma Mines
+Crystal-Earth Nova = Healing Mines
+Earth-Crystal Nova = Stone Shield
+
+Earth-Fire-Crystal Nova = Ring of Fire
+
+===================
+
+Earth Self = Rock Armor
+Fire Self = Ignite
+Crystal Self = Heal
+
+Earth-Fire Self = ???
+Fire-Earth Self = ???
+Fire-Crystal Self = ???
+Crystal-Fire Self = ???
+Crystal-Earth Self = ???
+Earth-Crystal Self = ???
+
+Earth-Fire-Crystal Self = ???

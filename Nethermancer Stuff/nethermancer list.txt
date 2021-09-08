@@ -1,0 +1,93 @@
+Nethermorphosis currently in an unreleasable state, and also kind of ugly
+
+
+ELDRITCH - portal magic, pitch black voids filled with sparkling stars and swirling galaxies, ringed with a deep purple-blue glow
+mobile blaster/disabler, revolves around maintaining a safe distance from enemies in order to keep Charge low and your spells cheap
+
+void barrage
+mind blast
+tesseract
+void helix (needs reworked charge scale, weaker uncharged but stronger charged)
+implosion
+nether phase
+chronosphere
+
+chilblains
+lucidity
+warp shell
+
+
+PLAGUE - decay and consumption, clouds of pinkish miasma dripping with black ichor, swarms of featureless gnashing mouths
+two trees in one, first revolves around caring for a swarm of fragile minions, second revolves around spreading and detonating debuffs
+
+miasma
+carrion call (maybe pull out the damaging explosion and move it to flesh?)
+animus blast
+expunge
+??? (control skill, maybe a togglable ichor trail or something that summons grasping corpses that can be converted?)
+plague pustule (allow carrion call to be cast on pustules)
+unclean one
+
+nethertoxin
+festering aura (needs a more readable debuff particle, like a simple five-piece pie chart or pentagon)
+epidemic
+
+
+FLESH - mutating skills, writhing masses of rubbery purple tentacles, soaked with blood and glowing a faint reddish-pink
+revolves around manipulating Charge for defense while you wade into your foes with close-combat skills
+
+fusion of flesh
+flaying tendril (Normal: damages enemies in a narrow cone and shreds armor. Morph: strikes a second time in a wider cone)
+grappling tendril (Normal: grapple to target and slow/knockback enemies around them. Morph: increases AoE and adds stun chance)
+strangling tendril (Normal: drag target towards you while repeatedly damaging them. Morph: grasps several more enemies around you)
+??? (damage skill, possibly the corpse explosion part of Carrion Call?)
+lasher pit (Normal: summons a ring of lashing tentacles around you. Morph: summons a wall of tentacles where you click)
+nethermorphosis (buffs armor/missile reflect, reduces movement speed, alters Tendril skills, charge becomes the buff's duration timer)
+
+black ichor
+insanity
+flay
+
+
+shred armor
+break shields
+
+slow
+life tap
+
+improve executions
+missile reflect
+
+d c u
+c u d
+c u u
+d d d
+c c d
+u d c
+c u u
+
+
+PARTICLE EFFECTS
+
+Mind Blast - explosion
+Tesseract - spawn, constrainment ring, explode, die, use the eldritch sparkly glass-looking shards
+Void Helix - missile spawn
+Chilblains - not bad but kind of overwhelming
+Miasma - projectile, black splatters
+Carrion Call - explosion (more pink blast ringed with black ichor)
+Plague Pustule - turn it pink/black?
+Unclean One - ditto
+Festering Aura - easier-to-read debuff indicator to help with Expunge targeting
+Flaying Tendril - tentacle and trails
+Grappling Tendril - add "extending" effect
+Strangling Tendril - rework the ground...anchor-y tentacles because they're kind of fugly
+Lasher Pit - meaty effects instead of earthy
+Nethermorphosis - sillhouette effect is cool but takes up too much extra space
+
+
+EXTRA SKILLS
+Void Torrent - spawns a sky portal that fires a massive beam straight down to the ground
+
+Viral Proliferation - spiraling projectile that bursts and inflicts a long-lived poison
+
+The Flesh That Hates - spend health to shed several flesh minions that steal life for you

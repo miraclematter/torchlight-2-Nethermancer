@@ -1,0 +1,112 @@
+In Progress
+	Jagged Bones -> Nethermorphosis rework
+		needs altered Tendril skills, starting with Legion's Grasp -> Devouring Tendril
+		needs particle effects for the aura unit theme, for when it ends, and for altered skills
+	Festering Aura more readable particle effect
+
+
+---NOW---
+
+Void Helix: rekajigger charging mechanic (IMPORTANT)
+	low power - slightly weaker and has no extra freeze chance
+	high power - far stronger and guaranteed to freeze, with a scaling duration
+	other - maybe rework into a hold-and-release charge shot instead of a stacking passive charge shot
+	?change to weapon DPS instead of flat magic damage?
+
+Nether Phase: REQUIRE missing charge, causing the spell to fail if there is not enough room for the necessary charge to be generated
+	effectively locks the cooldown at 3 seconds when at high charge
+	on second thought, let it be. let people be Nightstalker. mana should be the limiting factor here
+
+rearrange Eldritch tree to its final shape
+
+---
+
+Miasma: should apply current level of Nethertoxin (IMPORTANT)
+
+Carrion Call: separate out the corpse explosion into its own skill (in the Flesh tree), reduce mana cost in return
+
+Plague Pustule: if at all possible, should be a valid target for Carrion Call and Corpse Explosion
+	if this isn't possible, buff Animus Blast so it can be used to wear down enemies sooner
+	unlocks at level 28 (14 if usable for Carrion Call)
+
+Animus Blast: maybe buff early damage so that it's usable to get the netherling ball rolling earlier in the game
+	unlocks at level 14 (28 if Carrion Call works on Plague Pustules)
+
+come up with control skill to replace Netherguard (IMPORTANT)
+	maybe a poisonous, sticky ichor trail to replicate the nethermancer's trail
+	or a charm
+	unlocks at level 35
+
+Festering Aura: replace various particle effects with an easy-to-read "counter" sort of thing, League of Legends style (IMPORTANT)
+	should make it easier to detect good Expunge targets
+
+rearrange Plague tree to its final shape
+
+flavor text
+
+---
+
+Tentacle Lash: rework into Flaying Tendril (incorporates aspects of Tentacle Lash, Impale, and Flay) (IMPORTANT)
+	Flaying Tendril - quickly strikes enemies in a medium-range narrow cone, tipping an enemy with this attack shatters their shield
+	Nethermorphosis - hits twice in two slightly overlapping cones and always shatters shields
+
+Nether Assault: rename to Grappling Tendril
+	Grappling Tendril - root a target and grapple yourself to it, knocking away and slowing other foes around them
+	Nethermorphosis - widens hitbox and adds stun chance
+
+Jagged Bones: rework into Nethermorphosis (IMPORTANT) (KEYSTONE SKILL HERE LOTS OF SHIT TO DO MANY GOAL SO WORK)
+	Transform into a tentacled horror, modifying all of your Tendril skills and automatically counterattacking foes that strike you.
+	requires full charge to cast, drains X% charge per second, and goes on cooldown once charge runs out
+	charge benefits are locked at their maximum values while this skill is in effect
+	increases physical size, sprouts tentacles from character's back, and adds a black/pink nether aura
+	unlocks at level 42
+
+Impale: replace with corpse explosion taken from carrion call
+	damage based on corpse's maximum HP, dealt as half physical burst in small radius, half poison DoT in larger radius
+	Nethermorphosis - not affected
+	mainly scales by radius, which starts out very small, actual damage increases very little or not at all
+	unlocks at level 35
+
+Wall of Flesh: renamed to Thrashing Tendrils
+	unlocks at level 28
+
+Legion's Grasp: rework into Devouring Tendril (filling a niche kind of like Raze as an extreme single-target option) (IMPORTANT)
+	Devouring Tendril - latch onto a single target and crush the life out of them, conveys all on-hits (single target Legion's Grasp)
+	Nethermorphosis - hits additional targets around you
+	costs mana instead of charge
+	unlocks at level 21
+
+come up with passive to replace Flay (maybe some kind of bonus to maces and/or claws) (IMPORTANT)
+	+cleaving and +execute chance (works with most weapons, but particularly benefits dual swords/axes/maces, too boring)
+	each hit strips armor (too much like Shred Armor, effective but boring)
+	sprout tentacles from your back that grant +reflect and +dodge (awesome concept, but may be overkill on defensive stuff)
+	chance when struck to summon the Flesh That Hates, a short-lived minion with massive lifesteal-to-master (not bad but selfish)
+	executing rends enemies, causing all direct damage to siphon life (fairly simple change, adds a unique support-y twist)
+
+rearrange Flesh tree to its final shape
+
+flavor text
+
+
+
+Void Barrage*	Miasma		Fusion of Flesh*
+Tesseract	Carrion Call	Flaying Tendril
+Mind Blast*	Plague Pustule	Grappling Tendril*
+Void Helix	Expunge*	Devouring Tendril
+Implosion*	Animus Blast*	[damage]
+Nether Phase	[control]	Thrashing Tendrils
+Chronosphere*	Unclean One*	Nethermorphosis
+
+Chilblains*	Nethertoxin*	Black Ichor*
+Lucidity*	Festering Aura*	Insanity*
+Warp Shell	Epidemic*	???
+
+D C U
+C U D
+C D U
+     
+D D D
+U C D
+C U C
+     
+C U U

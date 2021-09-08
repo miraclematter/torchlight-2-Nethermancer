@@ -1,0 +1,232 @@
+---first in line to get reworked/replaced---
+
+Brain Sap	Black Ichor
+
+
+---unfinished---
+
+		Enthrall
+		Outbreak
+
+
+---done but not yet playtested---
+
+		Plague Pustule
+
+
+---needs tweaking---
+
+Tesseract
+
+
+---good, but still doesn't quite WOW me---
+
+			
+				Thrashing Tendrils
+
+
+---pretty much perfect---
+
+Void Barrage	Animus Blast	Tentacle Lash
+Void Nova	Miasma		Fusion of Flesh
+		Carrion Call	Nether Assault
+Implosion			Impale
+Nether Phase			Jagged Bones
+				Wall of Flesh
+Chronosphere	Unclean One	Legion's Grasp
+Lucidity			Insanity
+		Festering Aura	
+Chilblains	Epidemic	Carapace
+
+
+
+impale hits up and down slopes oddly
+
+give netherlings attack damage instead of attack speed, and replace their on-hit shit because they barely work
+
+
+
+===============================================================================
+
+
+
+===============================================================================
+
+
+
+*Chilblains: Your ice and poison spells leave enemies vulnerable to the other type of damage.
+
+*Lucidity: Increases cast speed and prevents charge generation as long as there are no nearby enemies.
+
+*Warp Shell: Twist space into a protective shield that regenerates while out of combat.
+
+Time Warp: Reduces all your skill cooldowns.
+
+
+*Nethertoxin: Adds a chance on hit to blind enemies, halving their vision range and attack accuracy.
+
+*Festering Aura: Radiate an aura that amplifies the effects of elemental debuffs.
+
+*Epidemic: Killing an enemy spreads any elemental debuffs on them to other nearby foes.
+
+
+*Black Ichor: Adds passive health regeneration and poisons enemies that attack you.
+
+*Insanity: Increases attack speed and generates charge when you take damage.
+
+*Flay: Executing inflicts a third strike and shreds your enemies' physical and poison armors.
+
+The Flesh That Hates: When you are injured in combat, you shed a chunk of flesh that attacks enemies on its own, stealing health for you.
+
+Thrashing Tendrils: While attacking, your tentacles whip around you and deflect enemy attacks and projectiles.
+
+Eldritch Horror: Your mere presence saps your enemies' will to fight, stealing attack damage and adding it to your own.
+
+
+
+Expunge: Violently purges elemental debuffs from surrounding foes, dealing damage for each one purged.
+	Per Rank: +2.5 damage, +1% multi-purge exponential bonus
+	Tier 0: 40-80 poison damage, +1% poison damage taken
+	Tier 1: Outbreak has a 30 second cooldown
+	Tier 2: Outbreak has a 20 second cooldown
+	Tier 3: Outbreak has a 10 second cooldown
+
+EVENT_TRIGGER: for each debuff, +1 Expunge stat
+EVENT_UNITHIT: for each Expunge stat, deal damage and any extra effects and -1 Expunge stat, then remove debuffs
+
+	Per Rank: +Damage
+	Tier 0: 
+	Tier 1: Purging 2 debuffs slows by 33% for 5 seconds
+	Tier 2: Purging 3 debuffs silences for 5 seconds
+	Tier 3: Purging 4 debuffs stuns for 5 seconds
+
+
+Tentacle Lash: A quick lash with your tentacle arm strikes foes at range, flaying away armor and generating bonus charge. Conveys all on-hit effects.
+	Per Rank: +Weapon DPS, +Armor Shred, +Charge Generation
+	Tier 0: 90..118% Weapon DPS, 10..80 armor reduction, 4..9.6% charge generation
+	Tier 1: +2m range, 33% chance to shatter shields
+	Tier 2: +2m range, 100% chance to shatter shields
+	Tier 3: +2m range, 100% chance to shatter shields
+
+
+Grappling Tendril: Immobilize a foe and pull yourself to them, crashing through other foes on the way.
+	Per Rank: +Range, +Weapon DPS, +Panic Duration
+	Tier 0: 
+	Tier 1: 
+	Tier 2: 
+	Tier 3: 
+
+Jagged Bones: Toggle to cause bone spikes to erupt from your body, granting a massive armor bonus and damaging foes that strike you in melee range. Your base mana regeneration is removed while this skill is active.
+	Per Rank: +Armor, +Weapon DPS
+	Tier 0: 
+	Tier 1: Grants resistance to slows
+	Tier 2: Foes Bleed after striking you
+	Tier 3: Conveys life and mana steal
+
+
+Transfusion: Ensnare a single foe and consume it, stealing health over time and gaining its strength if it dies.
+	Per Rank: +Weapon DPS, +Disable, +Stats
+	Tier 0: 
+	Tier 1: 
+	Tier 2: 
+	Tier 3: 
+
+
+Flay: When you execute, you strike a third time and cause foes to bleed. Bleeding increases damage taken by 33% and grants 33 lifesteal to attackers.
+	Per Rank: +Execute chance, +Bleed duration
+
+
+Rot: 
+	Per Rank: 
+	Tier 0: 
+	Tier 1: 
+	Tier 2: 
+	Tier 3: 
+
+
+Plague Pustule: Throw a disease-filled pustule that explodes when it detects an enemy nearby, dealing damage and creating a cloud of lingering poison.
+	Per Rank: +Damage
+	Tier 0: 
+	Tier 1: 
+	Tier 2: 
+	Tier 3: Blast radius increased to 6 meters
+
+
+
+Ice Attack: Void Barrage (E)
+Ice Attack: Void Helix (E)
+Poison Attack: Animus Blast (P)
+Poison Attack: Miasma (P)
+Poison Attack: Plague Pustule (P)
+Melee Attack: Flaying Tendril (F)
+Melee Attack: Grappling Tendril (F)
+Melee Attack: Legion's Grasp (F)
+other: ???
+other: ???
+
+summon: Carrion Call (P)
+summon: Unclean One (P)
+control: Void Nova (E)
+control: Implosion (E)
+control: Chronosphere (E)
+control: Wall of Flesh (F)
+support: Tesseract (E)
+support: Fusion of Flesh (F)
+mobility: Nether Phase (E)
+other: ???
+
+other: Jagged Bones (F)
+
+skills per tree  *******
+	Eldritch *******
+	Plague   *******
+	Flesh    *******
+
+-passives-
+Darkness
+Lucidity
+Chilblains
+
+Black Ichor
+Festering Aura
+Epidemic
+
+Unholy Strength
+Thrashing Tendrils
+Carapace
+
+
+Black Ichor
+Crushing Blows
+Thrashing Tendrils
+Carapace
+
+
+Void Barrage	Void Nova	Tesseract	Void Helix	Nether Phase	Implosion	Chronosphere
+
+Miasma		Carrion Call	???		Netherguard	Plague Pustule	Animus Blast	Unclean One
+
+Fusion of Flesh	Nether Assualt	Impale		Wall of Flesh	Jagged Bones	Tentacle Lash	Legion's Grasp
+
+
+
+BY TREE/TYPE
+Damage		Control		Utility		Damage		Control		Control		Control
+Control		Damage		???		Utility		Damage		Utility		Utility
+Utility		Control		Damage		Control		Utility		Utility		Damage
+
+
+BY TYPE
+DAMAGE
+
+
+CONTROL
+
+
+UTILITY
+
+
+
+
+Rank 1 of carapace is currently testing a "perpetual regeneration" shield
+Insanity is not yet reworked to match the new charge bonuses
